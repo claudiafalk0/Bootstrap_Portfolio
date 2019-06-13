@@ -2,3 +2,6 @@
     height: 60%;
     width: 40%;
 }
+.navbar-brand{
+    font-family: 'Indie Flower', cursive !important;
+}
