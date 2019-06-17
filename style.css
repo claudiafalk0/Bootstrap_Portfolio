@@ -5,3 +5,10 @@
 .navbar-brand{
     font-family: 'Indie Flower', cursive !important;
 }
+img{
+    width: 208px !important;
+}
+.card-body{
+    width: 208px;
+    height: 260px;
+}
