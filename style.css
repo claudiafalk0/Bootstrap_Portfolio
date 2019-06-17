@@ -5,10 +5,17 @@
 .navbar-brand{
     font-family: 'Indie Flower', cursive !important;
 }
-img{
-    width: 208px !important;
+#card-body-4,#card-body-5,#card-body-6{
+    width: 220px;
 }
-.card-body{
-    width: 208px;
-    height: 260px;
+#card-4{
+    margin-left: 0px;
+}
+#card-5,{
+    margin-right: 0px;
+    margin-left: 30px !important;
+}
+#card-6{
+    margin-right: 0px;
+    margin-left: 23px;
 }
