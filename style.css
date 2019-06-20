@@ -46,3 +46,7 @@ h1{
     color: whitesmoke;
     text-shadow: 2px 1px black;
 }
+.auth-image{
+    height: 225px;
+    width: 200px !important;
+}
