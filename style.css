@@ -5,7 +5,7 @@ body{
 }
 #main-container{
     background:rgba(245,245,245,.5);
-    padding-bottom: 10px;
+    padding-bottom: 15px;
     margin-top:10px;
 }
 .card-deck{
@@ -47,6 +47,7 @@ h1{
     text-shadow: 2px 1px black;
 }
 .auth-image{
-    height: 225px;
-    width: 200px !important;
+    padding-top: 2px;
+    height: 215px;
+    width: 190px !important;
 }
