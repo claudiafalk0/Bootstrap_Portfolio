@@ -7,15 +7,13 @@ body{
     padding-bottom: 15px;
     margin-top:10px;
 }
+.card-img-top {height: 12rem;}
+
 .auth-img{
     height: 60%;
     width: 40%;
 }
 
-img{
-    width:auto;
-    height:auto
-}
 .navbar-brand{
     font-family: 'Indie Flower', cursive;
 }
@@ -38,5 +36,4 @@ h1{
     height: 215px;
     width: 190px !important;
 }
-.card-img-top {height: 12rem;}
 
