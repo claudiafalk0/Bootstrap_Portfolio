@@ -7,35 +7,19 @@ body{
     padding-bottom: 15px;
     margin-top:10px;
 }
-.card-deck{
-    padding:0px 10px 10px;
-}
 .auth-img{
     height: 60%;
     width: 40%;
 }
 
 img{
-    width:auto
+    width:auto;
+    height:auto
 }
 .navbar-brand{
     font-family: 'Indie Flower', cursive;
 }
-#card-body-4,#card-body-5,#card-body-6{
-    width: 220px;
-}
-#card-4{
-    margin-left: 0px;
-}
-#card-5,{
-    margin-right: 0px;
-    margin-left: 30px !important;
-    height: auto;
-}
-#card-6{
-    margin-right: 0px;
-    margin-left: 23px;
-}
+
 #linkedIn{
     height:40%!important;
     width: 60% !important;
