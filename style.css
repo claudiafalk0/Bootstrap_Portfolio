@@ -16,10 +16,10 @@ body{
 
 .navbar-brand{
     font-family: 'Indie Flower', cursive;
+    font-weight: bold;
     margin: 0 auto;
     padding-left: 56px;
 }
-
 #linkedIn{
     height:40%!important;
     width: 60% !important;
@@ -32,6 +32,7 @@ h1{
     font-family: 'Kalam', cursive;
     color: rgba(5, 117, 148, 1);
     text-shadow: 2px 1px black;
+    text-align: center;
 }
 .auth-image{
     padding-top: 2px;
